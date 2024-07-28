@@ -4,7 +4,7 @@
 
 Nível de Conhecimento - Básico
 
-HTML - Intermediário
-Css - Básico
-JS - Básico
-ReactNative - Básico
+1 - HTML: Intermediário
+2 - Css: Básico
+3 - JS: Básico
+4 - ReactNative: Básico
